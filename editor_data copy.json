@@ -30,8 +30,8 @@
             "data": {
                 "images": [
                     {
-                        "url": "https:\/\/s3.ap-south-1.amazonaws.com\/awsimages.imagesbazaar.com\/900x600\/19146\/220-SM931536.jpg",
-                        "caption": "There is also room  test for pictures in your book!"
+                        "url": "https:\/\/meminto.com\/app\/frontend\/mem_stories\/images\/qA_example_Fuller_one_column.jpg",
+                        "caption": "There is also room for pictures in your book!"
                     }
                 ]
             }
@@ -47,10 +47,10 @@
             "data": {
                 "images": [
                     {
-                        "url": "https:\/\/s3.ap-south-1.amazonaws.com\/awsimages.imagesbazaar.com\/900x600\/20483\/300-PA1069163.jpg"
+                        "url": "https:\/\/meminto.com\/app\/frontend\/mem_stories\/images\/qA_example__1.jpg"
                     },
                     {
-                        "url": "https:\/\/s3.ap-south-1.amazonaws.com\/awsimages.imagesbazaar.com\/900x600\/14639\/120-SM572461.jpg"
+                        "url": "https:\/\/meminto.com\/app\/frontend\/mem_stories\/images\/qA_example_2.jpg"
                     }
                 ]
             }
@@ -71,7 +71,7 @@
         {
             "type": "paragraph",
             "data": {
-                "text": "Test - A QR code will appear at this point in your book, which can be scanned. As long as your video is available on YouTube, it will be playable from the book:"
+                "text": "A QR code will appear at this point in your book, which can be scanned. As long as your video is available on YouTube, it will be playable from the book:"
             }
         },
         {
